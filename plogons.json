@@ -4,7 +4,7 @@
     "Name": "Mare Synchronos",
     "InternalName": "MareSynchronos",
     "Description": "Client plugin for Mare Synchronos.",
-    "ApplicableVersion": " any",
+    "ApplicableVersion": "any",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,

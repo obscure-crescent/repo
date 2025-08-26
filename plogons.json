@@ -1,7 +1,9 @@
-{
+[ 
+    {
     "Author": "Obscure Crescent",
     "Name": "Mare Synchronos",
     "InternalName": "MareSynchronos",
+    "AssemblyVersion": "1.11.0.0",
     "Description": "Client plugin for Mare Synchronos.",
     "Punchline": "Sync appearances with friends.",
     "RepoUrl": "https://github.com/obscure-crescent/crescent_client",
@@ -11,7 +13,6 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
-    "AssemblyVersion": "1.11.0.0",
     "DownloadLinkInstall": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
     "DownloadLinkTesting": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
@@ -22,3 +23,4 @@
     "customization"
     ]
   }
+]

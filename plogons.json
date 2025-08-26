@@ -1,5 +1,4 @@
-[
-  {
+{
     "Author": "Obscure Crescent",
     "Name": "Mare Synchronos",
     "InternalName": "MareSynchronos",
@@ -19,4 +18,3 @@
     "IsTestingExclusive": false,
     "Tags": [ "social", "appearance", "sync" ]
   }
-]

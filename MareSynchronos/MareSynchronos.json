@@ -14,7 +14,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/obscure-crescent/crescent_client/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/obscure-crescent/crescent_client/main/icon.png",
   "Punchline": "Let others see you as you see yourself.",
   "AcceptsFeedback": true
 }

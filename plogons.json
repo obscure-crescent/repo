@@ -11,6 +11,7 @@
     "DalamudApiLevel": 13,
     "LoadPriority": 0,
     "LoadRequiredState": 0,
+    "LastUpdate": "1756166400",
     "LoadSync": false,
     "CanUnloadAsync": false,
     "DownloadLinkInstall": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",

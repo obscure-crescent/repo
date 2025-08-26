@@ -2,7 +2,7 @@
   {
     "Author": "Obscure Crescent",
     "Name": "Crescent Synchronos",
-    "InternalName": "MareSynchronos",
+    "InternalName": "CrescentSynchronos",
     "Description": "Client plugin for Mare Synchronos.",
     "ApplicableVersion": "any",
     "LoadRequiredState": 0,

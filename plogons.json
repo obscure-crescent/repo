@@ -1,24 +1,22 @@
 [
-  {
-    "Author": "Obscure Crescent",
-    "Name": "Crescent Synchronos",
-    "InternalName": "CrescentSynchronos",
-    "Description": "Client plugin for Mare Synchronos.",
-    "ApplicableVersion": "any",
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Sync appearances with friends.",
-    "RepoUrl": "https://github.com/obscure-crescent/crescent_client",
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "1.11.0.0",
-    "DownloadLinkInstall": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
-    "LastUpdate": "0",
-    "IconUrl": "https://raw.githubusercontent.com/obscure-crescent/crescent_client/main/icon.png",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "Tags": ["customization"]
-  }
+    {
+        "Author": "Obscure Crescent",
+        "Name": "Mare Synchronos",
+        "InternalName": "CrescentSynchronos",
+        "AssemblyVersion": "1.11.0.0",
+        "Description": "Mare Synchronos client",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/obscure-crescent/crescent_client",
+        "Tags": [
+          "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/obscure-crescent/crescent_client/main/icon.png",
+        "Punchline": "Sync appearances with friends.",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
+      }
 ]

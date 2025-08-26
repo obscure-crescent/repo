@@ -8,13 +8,17 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
     "AssemblyVersion": "1.11.0.0",
     "DownloadLinkInstall": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
     "DownloadLinkTesting": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.0.8/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/obscure-crescent/crescent_client/main/icon.png",
-    "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "Tags": [ "social", "appearance", "sync" ]
+    "Tags": [
+    "customization"
+    ]
   }

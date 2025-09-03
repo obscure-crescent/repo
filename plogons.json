@@ -1,10 +1,10 @@
 [
     {
         "Author": "Obscure Crescent",
-        "Name": "Mare Synchronos",
+        "Name": "Crescent Synchronos",
         "InternalName": "CrescentSynchronos",
-        "AssemblyVersion": "1.11.1.0",
-        "Description": "Mare Synchronos client",
+        "AssemblyVersion": "1.11.2.0",
+        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/obscure-crescent/crescent_client",
         "Tags": [
@@ -13,10 +13,10 @@
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/obscure-crescent/crescent_client/main/icon.png",
-        "Punchline": "Sync appearances with friends.",
+        "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.11.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.11.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.11.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/obscure-crescent/crescent_client/releases/download/v1.11.2/latest.zip",
       }
 ]
